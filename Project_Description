@@ -1,0 +1,9 @@
+These files all come from the final research project at the end of the semester where we; 
+Came up with a scientific question: Does the population of Rhyacotriton variegatus in Jedidiah Smith State Park constitute its own monophyletic clade? 
+Collected data: reference CytB sequence data was compiled from Miller et al. 2006 and novel data was provided by the KT-lab at Cal Poly Humboldt. 
+Designed and created an analysis pipeline to answer the question 
+Created our own tools (CuttyDude, Barela 2025) 
+Visualized our data
+Presented our data in both an oral presentation and a written manuscript.
+
+.FASTA data provided here is the reference data compiled from Miller et al. 2006 and labelled with accession numbers from each animal, instructions on how to use the code and what kind of inputs/outputs it takes/gives are mentioned within the annotation of the code.
